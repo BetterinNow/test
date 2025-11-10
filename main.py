@@ -1,2 +1,5 @@
 print("hello world")
-print("It demonstrates basic functionality.")
+print("This is a sample Python script.")
+print("It demonstrates basic print functionality.")
+print("Feel free to modify and expand upon this code!")
+print("Goodbye, world!")
